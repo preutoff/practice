@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a3b581-4f17-4d3e-ba58-a25dfd705a18" name="Changes" comment="fusc solution">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/Dinglemouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/SolutionTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/strings/longest_palindrome/Palindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/strings/longest_palindrome/PalindromesTest.java" afterDir="false" />
+    <list default="true" id="66a3b581-4f17-4d3e-ba58-a25dfd705a18" name="Changes" comment="palindrom solutions&#10;snakes&amp;ladders test">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/find_parity_outlier/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/find_parity_outlier/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/frogs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/frogs/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/pair_of_gloves/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/pair_of_gloves/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/strings/camel_case_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/strings/camel_case_2/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/Dinglemouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/Dinglemouse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,30 +53,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.SolutionTests.randomExample">
-    <configuration name="Dinglemouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.preutov.arrays.snakes_ladders.Dinglemouse" />
+}</component>
+  <component name="RunManager" selected="JUnit.SolutionTest">
+    <configuration name="ru.preutov.arrays.pair_of_gloves.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.preutov.arrays.pair_of_gloves.Solution" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.preutov.arrays.snakes_ladders.*" />
+          <option name="PATTERN" value="ru.preutov.arrays.pair_of_gloves.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,60 +84,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.preutov.strings.longest_palindrome.Palindromes" />
+    <configuration name="SolutionTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.preutov.strings.longest_palindrome.*" />
+          <option name="PATTERN" value="ru.preutov.algorithms.find_parity_outlier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.preutov.strings.longest_palindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.preutov.strings.longest_palindrome" />
-      <option name="MAIN_CLASS_NAME" value="ru.preutov.strings.longest_palindrome.PalindromesTest" />
+      <option name="PACKAGE_NAME" value="ru.preutov.algorithms.find_parity_outlier" />
+      <option name="MAIN_CLASS_NAME" value="ru.preutov.algorithms.find_parity_outlier.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.preutov.arrays.snakes_ladders.*" />
+          <option name="PATTERN" value="ru.preutov.arrays.pair_of_gloves.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.preutov.arrays.snakes_ladders" />
-      <option name="MAIN_CLASS_NAME" value="ru.preutov.arrays.snakes_ladders.SolutionTests" />
+      <option name="PACKAGE_NAME" value="ru.preutov.arrays.pair_of_gloves" />
+      <option name="MAIN_CLASS_NAME" value="ru.preutov.arrays.pair_of_gloves.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTests.randomExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.example" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.preutov.arrays.snakes_ladders.*" />
+          <option name="PATTERN" value="ru.preutov.algorithms.find_parity_outlier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.preutov.arrays.snakes_ladders" />
-      <option name="MAIN_CLASS_NAME" value="ru.preutov.arrays.snakes_ladders.SolutionTests" />
-      <option name="METHOD_NAME" value="randomExample" />
+      <option name="PACKAGE_NAME" value="ru.preutov.algorithms.find_parity_outlier" />
+      <option name="MAIN_CLASS_NAME" value="ru.preutov.algorithms.find_parity_outlier.SolutionTest" />
+      <option name="METHOD_NAME" value="example" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.preutov.arrays.pair_of_gloves.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.preutov.arrays.pair_of_gloves" />
+      <option name="MAIN_CLASS_NAME" value="ru.preutov.arrays.pair_of_gloves.SolutionTest" />
+      <option name="METHOD_NAME" value="tests" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTests.randomExample" />
-        <item itemvalue="Application.Dinglemouse" />
-        <item itemvalue="JUnit.SolutionTests" />
-        <item itemvalue="JUnit.PalindromesTest" />
-        <item itemvalue="Application.Palindromes" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.tests" />
+        <item itemvalue="Application.ru.preutov.arrays.pair_of_gloves.Solution" />
+        <item itemvalue="JUnit.SolutionTest (2)" />
+        <item itemvalue="JUnit.SolutionTest.example" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +166,8 @@
       <updated>1678796983468</updated>
       <workItem from="1678796984889" duration="1238000" />
       <workItem from="1678798489135" duration="6797000" />
-      <workItem from="1678951447096" duration="20472000" />
+      <workItem from="1678951447096" duration="22923000" />
+      <workItem from="1679578456395" duration="18908000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1678804544545</created>
@@ -179,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678865152921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="palindrom solutions&#10;snakes&amp;ladders test">
+      <created>1679485581649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679485581649</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,15 +199,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="fusc solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="fusc solution" />
+    <MESSAGE value="palindrom solutions&#10;snakes&amp;ladders test" />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrom solutions&#10;snakes&amp;ladders test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/Dinglemouse.java</url>
-          <line>50</line>
+          <line>56</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/Dinglemouse.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/frogs/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

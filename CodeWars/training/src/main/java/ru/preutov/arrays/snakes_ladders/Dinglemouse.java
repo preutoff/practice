@@ -24,18 +24,23 @@ public class Dinglemouse {
     }
 
     public static int snakesAndLadders(final int[] board, final int[] dice) {
-        int endGame = board.length - 1;
+        final int endGame = board.length - 1;
         int position = 0;
         boolean skip = false;
         for (int die : dice) {
-
-            position = position + die;
-            if (position == endGame) return endGame;
-            if ((position + board[position] < endGame)) {
-                position = position + board[position];
-            }
+            position = move(die, position, endGame, board);
+            if (position == endGame) return position;
         }
         return position;
+    }
+
+    private static int move(int step, int pos, int endGame, final int[] board) {
+        if (step == 0) return pos;
+        if (pos == endGame) return pos;
+        if (pos + step > endGame) return pos;
+        pos = pos + step;
+        pos = move(board[pos], pos, endGame, board);
+        return pos;
     }
 
     public static void to_string(final int[] arr) {
@@ -46,9 +51,10 @@ public class Dinglemouse {
         System.out.println("]");
 
     }
+
     public static void printArr(final int[] arr) {
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; arr.length  > i; i++) {
+        for (int i = 0; arr.length > i; i++) {
             System.out.printf("(%d,%d) ", i, arr[i]);
         }
         System.out.println("");
