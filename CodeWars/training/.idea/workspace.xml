@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a3b581-4f17-4d3e-ba58-a25dfd705a18" name="Changes" comment="palindrom solutions&#10;snakes&amp;ladders test">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/find_parity_outlier/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/find_parity_outlier/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/frogs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/algorithms/frogs/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/pair_of_gloves/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/pair_of_gloves/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/strings/camel_case_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/strings/camel_case_2/SolutionTest.java" afterDir="false" />
+    <list default="true" id="66a3b581-4f17-4d3e-ba58-a25dfd705a18" name="Changes" comment="numberOfPairGloves">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/Dinglemouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/preutov/arrays/snakes_ladders/Dinglemouse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +157,7 @@
       <workItem from="1678796984889" duration="1238000" />
       <workItem from="1678798489135" duration="6797000" />
       <workItem from="1678951447096" duration="22923000" />
-      <workItem from="1679578456395" duration="18908000" />
+      <workItem from="1679578456395" duration="21269000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1678804544545</created>
@@ -190,17 +180,36 @@
       <option name="project" value="LOCAL" />
       <updated>1679485581649</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="numberOfPairGloves">
+      <created>1680001915742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680001915742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="fusc solution" />
     <MESSAGE value="palindrom solutions&#10;snakes&amp;ladders test" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrom solutions&#10;snakes&amp;ladders test" />
+    <MESSAGE value="numberOfPairGloves" />
+    <option name="LAST_COMMIT_MESSAGE" value="numberOfPairGloves" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
