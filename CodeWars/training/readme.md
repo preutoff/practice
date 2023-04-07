@@ -1,6 +1,7 @@
 # Решение задач с сайта Code Wars  
 
 ## algorithms:  
+[Weight for weigh [5kyu]](https://www.codewars.com/kata/55c6126177c9441a570000cc)  
 [Find The Parity Outlier [6kyu]](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)  
 [Multiples of 3 or 5 [6kyu]](https://www.codewars.com/kata/514b92a657cdc65150000006)  
 [The fusc function -- Part 1 [7kyu]](https://www.codewars.com/kata/570409d3d80ec699af001bf9)  
