@@ -1,6 +1,8 @@
 # Решение задач с сайта Code Wars  
 
 ## algorithms:  
+[Range Extraction [4kyu]](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)  
+[Sum of Intervals [4kyu]](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)  
 [Weight for weigh [5kyu]](https://www.codewars.com/kata/55c6126177c9441a570000cc)  
 [Find The Parity Outlier [6kyu]](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)  
 [Multiples of 3 or 5 [6kyu]](https://www.codewars.com/kata/514b92a657cdc65150000006)  
