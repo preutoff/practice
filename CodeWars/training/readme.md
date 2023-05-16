@@ -13,6 +13,7 @@
 [Snakes & Ladders [6kyu]](https://www.codewars.com/kata/5821cd4770ca285b1f0001d5)  
 
 ## strings:  
+[Human readable duration format [4kyu]](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 [Format words into a sentence [6kyu]](https://www.codewars.com/kata/51689e27fe9a00b126000004)   
 [Convert string to camel case [6kyu]](https://www.codewars.com/kata/517abf86da9663f1d2000003 "camel_case_2")   
 [longest_palindrome [6kyu]](https://www.codewars.com/kata/54bb6f887e5a80180900046b)  
